@@ -1,0 +1,17 @@
+.bg-custom{
+	background-color: #607d8b ;
+}
+.btn-cus{
+	background-color: #1de9b6   ;
+	color: #000000   ;
+}
+.navbar .nav-item:hover :any-link{
+	background-color: #01579b  ;
+	color: white;
+	border-radius: 25px;
+}
+.text-custom{
+	color: #00c853 ;
+	
+}
+
